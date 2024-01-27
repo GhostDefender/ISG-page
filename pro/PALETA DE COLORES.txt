@@ -1,0 +1,5 @@
+BG: #14213D
+BG-BTN: #FCA311
+P: #FCA311
+H1: #FFF
+BTN-txt:#000
